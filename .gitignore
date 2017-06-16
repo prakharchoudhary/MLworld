@@ -1,2 +1,5 @@
 env/
 book/
+miniproj.py
+sentiment_analysis/
+web_traffic.tsv
